@@ -16,3 +16,7 @@ with col2:
                 I have built on my journey to learn Python.
             """
     st.info(content)
+
+content1 = """ Below are the Python Projects. Feel free to connect with me."""
+
+st.info(content1)
